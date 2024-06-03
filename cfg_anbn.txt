@@ -1,0 +1,13 @@
+fa,fb,fr
+sc,scc
+sc,scc,_
+fa
+fb
+fr
+fa sc sc d fa
+fa sc _ d fb
+fa scc scc d fb
+fb scc scc d fb
+fb _ _ d fb
+fa _ _ d fb
+fa s _ d fb
